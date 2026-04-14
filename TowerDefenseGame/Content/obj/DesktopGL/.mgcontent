@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/BarrackTowerlv1.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/BarrackTowerlv2.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/BarrackTowerlv3.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/BarrackTowerlv4.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/DefaultFont.spritefont</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Enemy_Attack.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Enemy_death.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Enemy1.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Hover.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/HUD_Coins.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/HUD_GateHealth.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/HUD_Wave.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/MagicalTowerlv1.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/MagicalTowerlv2.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/MagicalTowerlv3.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/MagicalTowerlv4.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Maps/Mapdefault.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/projectile_MagicalTower.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/projectile_MagicalTowerlv4.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/spot.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/UI_Loading.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/UI_Lose.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/UI_MainMenu.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/UI_Paused.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/UI_Win.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Upgrade.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Warrior_Attack.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Warrior_Death.png</File>
+    <File>/Users/binguyen/Desktop/TowerDefenseGame/Content/Warrior1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

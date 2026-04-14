@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/BarrackTowerlv1.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/BarrackTowerlv2.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/BarrackTowerlv3.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/BarrackTowerlv4.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/DefaultFont.spritefont</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Enemy_Fast.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Enemy_Normal.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Enemy_tank2.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Hover.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/HUD_Coins.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/HUD_GateHealth.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/HUD_Wave.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/MagicalTowerlv1.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/MagicalTowerlv2.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/MagicalTowerlv3.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/MagicalTowerlv4.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Maps/Mapdefault.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/projectile_MagicalTower.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/projectile_MagicalTowerlv4.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/spot.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_Instruction.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_Loading.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_Lose.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_MainMenu.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_Paused.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/UI_Win.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Upgrade.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Warrior_Attack.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Warrior_Death.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/Warrior1.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/WarriorElite_Attack.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/WarriorElite_Death.png</File>
+    <File>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/WarriorElite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

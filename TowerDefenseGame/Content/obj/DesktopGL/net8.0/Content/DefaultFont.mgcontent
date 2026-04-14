@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/DefaultFont.spritefont</SourceFile>
+  <SourceTime>2025-06-14T23:52:44+07:00</SourceTime>
+  <DestFile>/Users/binguyen/Documents/Swinburne Homeworks/COS20007-OOP/Tower-Defense-Game/TowerDefenseGame/Content/bin/DesktopGL/Content/DefaultFont.xnb</DestFile>
+  <DestTime>2026-04-14T16:34:56.0543527+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T17:31:02+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T17:31:02+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
