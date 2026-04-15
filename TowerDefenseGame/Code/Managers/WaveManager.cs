@@ -37,9 +37,9 @@ namespace TowerDefenseGame
         private void InitializeWaves()
         {
             _waveMap[1] = new NormalWave(5, _rendererAssets);
-            // _waveMap[2] = new FastWave(5, _rendererAssets);
-            // _waveMap[3] = new TankWave(3, _rendererAssets);
-            // _waveMap[4] = new MixedWave(5, 5, 5, _rendererAssets);
+            _waveMap[2] = new FastWave(5, _rendererAssets);
+            _waveMap[3] = new TankWave(3, _rendererAssets);
+            _waveMap[4] = new MixedWave(5, 5, 5, _rendererAssets);
         }
 
         // =================== Wave Management ===================
