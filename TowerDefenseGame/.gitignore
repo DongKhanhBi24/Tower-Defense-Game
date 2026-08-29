@@ -1,5 +1,6 @@
 # .NET build output
 bin/
+Content/bin/
 obj/
 [Bb]uild/
 [Dd]ebug/
@@ -33,3 +34,9 @@ path.txt
 
 # Logs
 *.log
+
+#others
+*.editorconfig
+app.manifest
+Icon.bmp
+Icon.ico
