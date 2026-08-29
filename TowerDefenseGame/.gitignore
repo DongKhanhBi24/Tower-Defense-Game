@@ -1,0 +1,35 @@
+# .NET build output
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+*.deps.json
+*.runtimeconfig.json
+
+# NuGet
+packages/
+*.nupkg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local files
+path.txt
+*.zip
+
+# Logs
+*.log
